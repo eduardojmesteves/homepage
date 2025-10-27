@@ -1,6 +1,6 @@
 baseURL: "https://eduardojmesteves.github.io/homepage/"
 languageCode: "en-gb"
-title: "Hugo Profile"
+title: "Eduardo Esteves, PhD"
 theme: hugo-profile
 
 canonifyURLs: true # turn on for clean URLs
@@ -65,9 +65,9 @@ Menus:
 
 params:
   title: "Eduardo Esteves, PhD"
-  description: Text about my cool site
+  description: Career pathway homepage for Eduardo Esteves, PhD
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/img/favicon.ico"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
