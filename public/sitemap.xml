@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:65062/homepage/categories/</loc>
+    <loc>http://localhost:58532/homepage/projects/hackathon-2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65062/homepage/</loc>
+    <loc>http://localhost:58532/homepage/categories/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:65062/homepage/tags/</loc>
+    <loc>http://localhost:58532/homepage/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:58532/homepage/categories/hackathon--innovation/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:58532/homepage/projects/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
