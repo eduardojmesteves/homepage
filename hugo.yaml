@@ -65,7 +65,7 @@ Menus:
 
 params:
   title: "Eduardo Esteves, PhD"
-  description: Career pathway homepage for Eduardo Esteves, PhD
+  description: This is the homepage for Eduardo Esteves, PhD, showcasing his career experience and achievements.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/img/favicon.ico"
 
