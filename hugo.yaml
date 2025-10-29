@@ -168,7 +168,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/img/avatar.jpg"
+    # image: "/img/avatar.jpg"
     content: |-
       Life-Sciences Programme Officer & Health Data Scientist combining strategic coordination of European life-science infrastructures with hands-on bioinformatics and translational analytics.
 
@@ -179,13 +179,12 @@ params:
       enable: true
       title: "Skills:"
       items:
-        - Stakeholder & consortium management
+        - Team & Project management
         - Research data governance
         - FAIR data & interoperability
         - Health data engineering
         - Programme delivery
         - Scientific communication
-        - Team work & quality culture
 
 
 

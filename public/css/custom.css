@@ -1,0 +1,3 @@
+/* Wider gaps only in the Skills section */
+section#skills .row { --bs-gutter-x: 2.5rem; }  /* try 2–3rem */
+section#skills .row { --bs-gutter-y: 1.25rem; } /* optional */
