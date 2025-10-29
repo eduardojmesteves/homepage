@@ -3,7 +3,7 @@ title: "CoVTec in Saliva — Pooling Strategy for Scalable Testing"
 summary: "Developed and validated a saliva pooling strategy and lightweight data platform to scale regional COVID-19 testing while preserving sensitivity and operational throughput."
 date: 2022-01-18
 categories: ["Research"]
-
+cover: "/img/pooling.jpg"
 ---
 
 Developed and validated a saliva pooling strategy and lightweight data platform to scale regional COVID-19 testing while preserving sensitivity and operational throughput.

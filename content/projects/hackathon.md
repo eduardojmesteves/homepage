@@ -1,9 +1,9 @@
 ---
-title: "💡 Aveiro Tech City Hackathon 2024 — Challenge 2 (Bosch Portugal)"
+title: "Aveiro Tech City Hackathon 2024"
 summary: "Summary."
 date: 2024-01-01
 categories: ["Hackathon & Innovation"]
-
+cover: "/img/hackathon.png"
 ---
 
 **Problem.** Industrial process confirmation in assembly lines and workstations is often unreliable in environments with poor internet connectivity. Bosch Portugal set the challenge of creating an autonomous and automatic system that could overcome these constraints.  

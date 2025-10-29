@@ -2,18 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Eduardo Esteves, PhD</title>
-    <link>http://localhost:58532/homepage/projects/</link>
+    <link>http://localhost:60857/homepage/projects/</link>
     <description>Recent content in Projects on Eduardo Esteves, PhD</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:58532/homepage/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60857/homepage/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>💡 Aveiro Tech City Hackathon 2024 — Challenge 2 (Bosch Portugal)</title>
-      <link>http://localhost:58532/homepage/projects/hackathon-2024/</link>
+      <title>Aveiro Tech City Hackathon 2024</title>
+      <link>http://localhost:60857/homepage/projects/hackathon/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58532/homepage/projects/hackathon-2024/</guid>
+      <guid>http://localhost:60857/homepage/projects/hackathon/</guid>
       <description>Summary.</description>
+    </item>
+    <item>
+      <title>Oral e-Health Monitoring Platform — Co-Founder</title>
+      <link>http://localhost:60857/homepage/projects/oehmp/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60857/homepage/projects/oehmp/</guid>
+      <description>Co-founded a platform to capture, store and visualise longitudinal oral-health data (clinical records, omic data, observations) in a FAIR-aligned, reproducible way.</description>
+    </item>
+    <item>
+      <title>Oral Microbiome Profile in Clear Aligner Patients During Treatment</title>
+      <link>http://localhost:60857/homepage/projects/microbiome/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60857/homepage/projects/microbiome/</guid>
+      <description>Profiled saliva during clear-aligner therapy using shotgun proteomics and 16S rRNA, integrating clinical metadata to characterise host–microbiome shifts over time.</description>
+    </item>
+    <item>
+      <title>COVID-19 Salivary Protein Profile — Proteomics study</title>
+      <link>http://localhost:60857/homepage/projects/covid/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60857/homepage/projects/covid/</guid>
+      <description>Co-led a saliva proteomics study to characterise host response in COVID-19, combining MS-based profiling with multivariate modelling and network/context enrichment to surface dysregulated pathways and novel protein associations.</description>
+    </item>
+    <item>
+      <title>CoVTec in Saliva — Pooling Strategy for Scalable Testing</title>
+      <link>http://localhost:60857/homepage/projects/covtec-pooling/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60857/homepage/projects/covtec-pooling/</guid>
+      <description>Developed and validated a saliva pooling strategy and lightweight data platform to scale regional COVID-19 testing while preserving sensitivity and operational throughput.</description>
+    </item>
+    <item>
+      <title>CoVTec (Saliva COVID-19 Diagnostics)</title>
+      <link>http://localhost:60857/homepage/projects/covtec/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60857/homepage/projects/covtec/</guid>
+      <description>Co-led the design and rollout of a saliva-based RT-qPCR testing workflow for UCP, replacing swab dependency with a safer, cheaper, high-compliance alternative and enabling campus surveillance during COVID-19.</description>
+    </item>
+    <item>
+      <title>SalivaPRINT Toolkit</title>
+      <link>http://localhost:60857/homepage/projects/salivaprint/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60857/homepage/projects/salivaprint/</guid>
+      <description>Built a reusable reference dataset and toolkit to standardise salivary proteome profiling and accelerate biomarker discovery across studies using the capillary electrophoresis technique.</description>
     </item>
   </channel>
 </rss>

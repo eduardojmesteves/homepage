@@ -2,8 +2,8 @@
 title: "Oral Microbiome Profile in Clear Aligner Patients During Treatment"
 summary: "Profiled saliva during clear-aligner therapy using shotgun proteomics and 16S rRNA, integrating clinical metadata to characterise host–microbiome shifts over time."
 date: 2024-01-01
-categories: ["Healthcare"]
-
+categories: ["Research"]
+cover: "/img/relative_abundances_microbiome.png"
 ---
 
 Profiled saliva during clear-aligner therapy using shotgun proteomics and 16S rRNA, integrating clinical metadata to characterise host–microbiome shifts over time.

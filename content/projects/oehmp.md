@@ -2,8 +2,8 @@
 title: "Oral e-Health Monitoring Platform — Co-Founder"
 summary: "Co-founded a platform to capture, store and visualise longitudinal oral-health data (clinical records, omic data, observations) in a FAIR-aligned, reproducible way."
 date: 2024-01-01
-categories: ["Hackathon & Innovation"]
-
+categories: ["Research"]
+cover: "/img/oehmp.png"
 ---
 
 Co-founded a platform to capture, store and visualise longitudinal oral-health data (clinical records, omics, observations) in a FAIR-aligned, reproducible way.

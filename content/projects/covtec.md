@@ -3,7 +3,7 @@ title: "CoVTec (Saliva COVID-19 Diagnostics)"
 summary: "Co-led the design and rollout of a saliva-based RT-qPCR testing workflow for UCP, replacing swab dependency with a safer, cheaper, high-compliance alternative and enabling campus surveillance during COVID-19."
 date: 2020-05-20
 categories: ["Research"]
-
+cover: "/img/covtec.jpeg"
 ---
 
 Co-led the design and rollout of a saliva-based RT-qPCR testing workflow for UCP, replacing swab dependency with a safer, cheaper, high-compliance alternative and enabling campus surveillance during COVID-19.

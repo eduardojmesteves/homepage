@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Eduardo Esteves, PhD</title>
-    <link>http://localhost:58532/homepage/categories/</link>
+    <link>http://localhost:60857/homepage/categories/</link>
     <description>Recent content in Categories on Eduardo Esteves, PhD</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:58532/homepage/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60857/homepage/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hackathon &amp; Innovation</title>
-      <link>http://localhost:58532/homepage/categories/hackathon--innovation/</link>
+      <link>http://localhost:60857/homepage/categories/hackathon--innovation/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58532/homepage/categories/hackathon--innovation/</guid>
+      <guid>http://localhost:60857/homepage/categories/hackathon--innovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Healthcare</title>
+      <link>http://localhost:60857/homepage/categories/healthcare/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60857/homepage/categories/healthcare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:60857/homepage/categories/research/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60857/homepage/categories/research/</guid>
       <description></description>
     </item>
   </channel>

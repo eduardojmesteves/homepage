@@ -276,24 +276,21 @@ params:
               - Supervised a cross-disciplinary team; managed budget and procurement; coordinated data collection and clinical collaborations across partner sites — delivered milestones on schedule.
               - Co-developed the SalivaTec DB for saliva proteome/miRNA/microorganisms records — designed schema updates, curation/QC workflows, and deposition guidelines; contributed dataset submissions ([SalivaTecDB](https://salivatec.viseu.ucp.pt/salivatec-db)).
 
-      - company: "Universidade Católica Portuguesa"
-        companyUrl: "https://ciis.ucp.pt/salivatec"
-        jobs:
-        - name: "Assistant Lecturer"
-          date: "Sep 2020 - Aug 2021"
-          info: 
-            content: Viseu, Portugal / Onsite
-          content: |
+          - name: "Assistant Lecturer"
+            date: "Sep 2020 - Aug 2021"
+            info: 
+              content: Viseu, Portugal / Onsite
+            content: |
               - Supported undergraduate classes to develop **critical thinking and research skills**.  
               - Led laboratory sessions that combined **hands-on experiments with computer-based bioinformatics learning**.  
               - Delivered **results-oriented classes** with practical applications in proteomics and molecular biology.  
               - Helped establish **industry–academia partnerships** to give students real-world project experience.  
 
-              | **Course** | **Role** | **Institution** | **Start** | **End** |
-              |---|---|---|---:|---:|
-              | Biomolecular Laboratories II | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
-              | Molecular Biology | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
-              | Seminars Projects | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
+              | **Course** |
+              |---|
+              | Biomolecular Laboratories II |
+              | Molecular Biology | 
+              | Seminars Projects |
 
   # Education
   education:
@@ -474,7 +471,7 @@ params:
 
   # Single pages like blog and post
   singlePages:
-    socialShare: true
+    socialShare: false
     readTime:
       enable: true
       content: "min read"

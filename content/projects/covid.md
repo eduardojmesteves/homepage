@@ -3,7 +3,7 @@ title: "COVID-19 Salivary Protein Profile — Proteomics study"
 summary: "Co-led a saliva proteomics study to characterise host response in COVID-19, combining MS-based profiling with multivariate modelling and network/context enrichment to surface dysregulated pathways and novel protein associations."
 date: 2022-09-22
 categories: ["Research"]
-
+cover: "/img/covid-proteomics.png"
 ---
 
 Co-led a saliva proteomics study to characterise host response in COVID-19, combining MS-based profiling with multivariate modelling and network/context enrichment to surface dysregulated pathways and novel protein associations.

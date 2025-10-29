@@ -3,7 +3,7 @@ title: "SalivaPRINT Toolkit"
 summary: "Built a reusable reference dataset and toolkit to standardise salivary proteome profiling and accelerate biomarker discovery across studies using the capillary electrophoresis technique."
 date: 2017-08-20
 categories: ["Research"]
-
+cover: "/img/protein-profile.jpg"
 ---
 
 Built a reusable reference dataset and toolkit to standardise salivary proteome profiling and accelerate biomarker discovery across studies using the capillary electrophoresis technique.
