@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aveiro Tech City Hackathon 2024 on Eduardo Esteves, PhD</title>
-    <link>http://localhost:60857/homepage/projects/hackathon/</link>
+    <link>http://localhost:63188/homepage/projects/hackathon/</link>
     <description>Recent content in Aveiro Tech City Hackathon 2024 on Eduardo Esteves, PhD</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:60857/homepage/projects/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63188/homepage/projects/hackathon/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,42 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:60857/homepage/projects/hackathon/</loc>
+    <loc>http://localhost:63188/homepage/categories/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63188/homepage/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63188/homepage/projects/pranatech/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63188/homepage/projects/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63188/homepage/categories/research/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63188/homepage/projects/hackathon/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60857/homepage/categories/</loc>
+    <loc>http://localhost:63188/homepage/categories/hackathon--innovation/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60857/homepage/</loc>
+    <loc>http://localhost:63188/homepage/projects/oehmp/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60857/homepage/categories/hackathon--innovation/</loc>
+    <loc>http://localhost:63188/homepage/projects/microbiome/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60857/homepage/projects/oehmp/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:60857/homepage/projects/microbiome/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:60857/homepage/projects/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:60857/homepage/categories/research/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:60857/homepage/projects/covid/</loc>
+    <loc>http://localhost:63188/homepage/projects/covid/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60857/homepage/projects/covtec-pooling/</loc>
+    <loc>http://localhost:63188/homepage/projects/covtec-pooling/</loc>
     <lastmod>2022-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60857/homepage/projects/covtec/</loc>
+    <loc>http://localhost:63188/homepage/projects/covtec/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60857/homepage/projects/salivaprint/</loc>
+    <loc>http://localhost:63188/homepage/projects/salivaprint/</loc>
     <lastmod>2017-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:60857/homepage/categories/healthcare/</loc>
   </url>
 </urlset>

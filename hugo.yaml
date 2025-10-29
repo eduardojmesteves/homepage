@@ -177,14 +177,17 @@ params:
 
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Skills:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - Stakeholder & consortium management
+        - Research data governance
+        - FAIR data & interoperability
+        - Health data engineering
+        - Programme delivery
+        - Scientific communication
+        - Team work & quality culture
+
+
 
   # Experience
   experience:
@@ -209,18 +212,18 @@ params:
             info:
               content: Cambridge, UK / Onsite
                       
-            featuredItems:
-              fontAwesomeIcons:
-                - icon: fa-brands fa-react
-                  url: https://react.dev/
-                  tooltip: Example tooltip content
-                - icon: fab fa-x-twitter
-                  url: https://example.com
-                  # tooltip: Example tooltip content
-              customIcons:
-                - icon: /fav.png
-                  url: "https://example.com"
-                  tooltip: Example tooltip content
+            # featuredItems:
+            #   fontAwesomeIcons:
+            #     - icon: fa-brands fa-react
+            #       url: https://react.dev/
+            #       tooltip: Example tooltip content
+            #     - icon: fab fa-x-twitter
+            #       url: https://example.com
+            #       # tooltip: Example tooltip content
+            #   customIcons:
+            #     - icon: /fav.png
+            #       url: "https://example.com"
+            #       tooltip: Example tooltip content
 
       - company: "Prana-Tech Ltd"
         companyUrl: "https://www.prana-tech.com/"
