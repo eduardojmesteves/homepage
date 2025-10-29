@@ -276,6 +276,25 @@ params:
               - Supervised a cross-disciplinary team; managed budget and procurement; coordinated data collection and clinical collaborations across partner sites — delivered milestones on schedule.
               - Co-developed the SalivaTec DB for saliva proteome/miRNA/microorganisms records — designed schema updates, curation/QC workflows, and deposition guidelines; contributed dataset submissions ([SalivaTecDB](https://salivatec.viseu.ucp.pt/salivatec-db)).
 
+      - company: "Universidade Católica Portuguesa"
+        companyUrl: "https://ciis.ucp.pt/salivatec"
+        jobs:
+        - name: "Assistant Lecturer"
+          date: "Sep 2020 - Aug 2021"
+          info: 
+            content: Viseu, Portugal / Onsite
+          content: |
+              - Supported undergraduate classes to develop **critical thinking and research skills**.  
+              - Led laboratory sessions that combined **hands-on experiments with computer-based bioinformatics learning**.  
+              - Delivered **results-oriented classes** with practical applications in proteomics and molecular biology.  
+              - Helped establish **industry–academia partnerships** to give students real-world project experience.  
+
+              | **Course** | **Role** | **Institution** | **Start** | **End** |
+              |---|---|---|---:|---:|
+              | Biomolecular Laboratories II | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
+              | Molecular Biology | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
+              | Seminars Projects | Assistant Lecturer | Catholic University of Portugal | Sep 2020 | Aug 2021 |
+
   # Education
   education:
     enable: true
@@ -333,96 +352,96 @@ params:
   projects:
     enable: true
     # title: "Custom Name"
-    items:
-      - title: 🧬 COVID-19 Salivary Protein Profile
-        content: |-
-          Problem: Characterise host response and identify dysregulated processes in COVID-19 using saliva proteomics.
-          Approach: MS proteomics + PLS-DA, enrichment (FunRich), interactomics (OralInt).
-          Outcome: Highlighted 5 dysregulated processes; uncovered 10 proteins not previously associated with SARS-CoV-2.
+    # items:
+    #   - title: 🧬 COVID-19 Salivary Protein Profile
+    #     content: |-
+    #       Problem: Characterise host response and identify dysregulated processes in COVID-19 using saliva proteomics.
+    #       Approach: MS proteomics + PLS-DA, enrichment (FunRich), interactomics (OralInt).
+    #       Outcome: Highlighted 5 dysregulated processes; uncovered 10 proteins not previously associated with SARS-CoV-2.
 
-        image: /img/protein-profile.jpg
-        featured:
-          name: Scientific Article
-          link: https://www.mdpi.com/2077-0383/11/19/5571
-        badges:
-          - "Research"
-        # links:
-        #   - icon: fab fa-pubmed
-        #     url: https://www.mdpi.com/2077-0383/11/19/5571
+    #     image: /img/protein-profile.jpg
+    #     featured:
+    #       name: Scientific Article
+    #       link: https://www.mdpi.com/2077-0383/11/19/5571
+    #     badges:
+    #       - "Research"
+    #     # links:
+    #     #   - icon: fab fa-pubmed
+    #     #     url: https://www.mdpi.com/2077-0383/11/19/5571
 
-      - title: 🧬 COVID-19 Salivary Protein Profile
-        content: |-
-          Problem: Characterise host response and identify dysregulated processes in COVID-19 using saliva proteomics.
-          Approach: MS proteomics + PLS-DA, enrichment (FunRich), interactomics (OralInt).
-          Outcome: Highlighted 5 dysregulated processes; uncovered 10 proteins not previously associated with SARS-CoV-2.
+    #   - title: 🧬 COVID-19 Salivary Protein Profile
+    #     content: |-
+    #       Problem: Characterise host response and identify dysregulated processes in COVID-19 using saliva proteomics.
+    #       Approach: MS proteomics + PLS-DA, enrichment (FunRich), interactomics (OralInt).
+    #       Outcome: Highlighted 5 dysregulated processes; uncovered 10 proteins not previously associated with SARS-CoV-2.
 
-        image: /img/protein-profile.jpg
-        featured:
-          name: Scientific Article
-          link: https://www.mdpi.com/2077-0383/11/19/5571
-        badges:
-          - "Research"
-        # links:
-        #   - icon: fab fa-pubmed
-        #     url: https://www.mdpi.com/2077-0383/11/19/5571
+    #     image: /img/protein-profile.jpg
+    #     featured:
+    #       name: Scientific Article
+    #       link: https://www.mdpi.com/2077-0383/11/19/5571
+    #     badges:
+    #       - "Research"
+    #     # links:
+    #     #   - icon: fab fa-pubmed
+    #     #     url: https://www.mdpi.com/2077-0383/11/19/5571
 
-      - title: 🧬 CoVTec in Saliva (Pooling Strategy)
-        content: |-
-          Problem. Scale saliva testing efficiently in a regional network.
-          Approach. Protocol development + platform for real-time data capture and role-based access; analytics in Python.
-          Outcome. Validated pooling strategy and streamlined operations.
+    #   - title: 🧬 CoVTec in Saliva (Pooling Strategy)
+    #     content: |-
+    #       Problem. Scale saliva testing efficiently in a regional network.
+    #       Approach. Protocol development + platform for real-time data capture and role-based access; analytics in Python.
+    #       Outcome. Validated pooling strategy and streamlined operations.
 
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263033
+    #     image: /images/projects/converter.jpg
+    #     featured:
+    #       name: Demo
+    #       link: https://django-converter.herokuapp.com
+    #     badges:
+    #       - "Django"
+    #       - "Bootstrap"
+    #     links:
+    #       - icon: fab fa-github
+    #         url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263033
 
-      - title: 🧬🦷 Oral Microbiome Profile in Clear Aligner Patients During Treatment
-        content: |-
-          A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Research"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+    #   - title: 🧬🦷 Oral Microbiome Profile in Clear Aligner Patients During Treatment
+    #     content: |-
+    #       A clean and simple Hugo template for personal portfolio and blog.
+    #     image: /images/projects/profile2.jpg
+    #     featured:
+    #       name: Demo V2
+    #       link: https://hugo-profile-2.netlify.app
+    #     badges:
+    #       - "Research"
+    #     links:
+    #       - icon: fab fa-github
+    #         url: https://github.com/gurusabarish/HugoProfileV2
 
-      - title: 🦷 Oral e-Health Monitoring Platform — Co-Founder
-        content: |-
-          A clean and simple Hugo template for personal portfolio and blog.
-        image: /img/oehmp.png
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Research"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+    #   - title: 🦷 Oral e-Health Monitoring Platform — Co-Founder
+    #     content: |-
+    #       A clean and simple Hugo template for personal portfolio and blog.
+    #     image: /img/oehmp.png
+    #     featured:
+    #       name: Demo V2
+    #       link: https://hugo-profile-2.netlify.app
+    #     badges:
+    #       - "Research"
+    #     links:
+    #       - icon: fab fa-github
+    #         url: https://github.com/gurusabarish/HugoProfileV2
 
-      - title: ⚙️ SalivaPRINT Toolkit
-        content: |-
-          Problem: Need for a standardised resource to profile salivary proteomes across conditions.  
-          Approach: Built a reference dataset (PRIDE submissions) + software toolkit for feature extraction and biomarker discovery.  
-          Outcome: Provided reusable resource; enabled comparative salivary proteomics studies.
-        image: /img/protein-profile.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Research"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+    #   - title: ⚙️ SalivaPRINT Toolkit
+    #     content: |-
+    #       Problem: Need for a standardised resource to profile salivary proteomes across conditions.  
+    #       Approach: Built a reference dataset (PRIDE submissions) + software toolkit for feature extraction and biomarker discovery.  
+    #       Outcome: Provided reusable resource; enabled comparative salivary proteomics studies.
+    #     image: /img/protein-profile.jpg
+    #     featured:
+    #       name: Demo V2
+    #       link: https://hugo-profile-2.netlify.app
+    #     badges:
+    #       - "Research"
+    #     links:
+    #       - icon: fab fa-github
+    #         url: https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:
